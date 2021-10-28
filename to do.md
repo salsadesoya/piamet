@@ -1,4 +1,4 @@
-# PIA Métodos Numéricos LMV V6
+# PIA Métodos Numéricos 
 Proyecto Final de la Materia de Métodos Numéricos FIME UANL
 
 ## JupyterLab:
